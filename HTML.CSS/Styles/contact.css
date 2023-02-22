@@ -25,3 +25,8 @@
 .company-metadata-sidebar-wrapper > .company-details-wrapper i{
     color: #cea135;
 }
+
+.navigation-wrapper > .left-column > .contact-hours-wrapper > .phone{
+    font-family: "Ubuntu Condensed", sans-serif;
+    letter-spacing: 1px;
+}
